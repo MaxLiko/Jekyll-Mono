@@ -3,7 +3,7 @@ layout: post
 title: Working with the product.
 author: Max Liko
 ---
-My first cluster & the stuff I had learned.
+Day4: My first cluster & the stuff I had learned.
 
 # My first experience with a cluster.
 
