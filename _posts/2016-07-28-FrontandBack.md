@@ -23,7 +23,7 @@ After a small coding session where Joe showed me the most important parts of the
 But it has still a few problems which need to be taken care of (WIP as always ;) ). 
 
 After this task was finished I switched from the back to the front of the application and the new programming languages I had to deal with were css, html and java script. 
-As I am writing this on Thursday I am not quite finished with adapting the existing fronted design to the existing application I will report at a later point in time again.
+But after a little bit of fiddling around it was quite satisfying to see the results of your actions in comparison to the quite abstract programming of the backend. I would say I am probably more of a fronted developer then a backend technician.  
 
 This week was especially hard as i had to work with a lot of new stuff. 
 But this was also an opportunity as I had to read about a lot of related stuff and try a lot things.
