@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Prepare for Berlin
+title: Preperation for Berlin
 author: Max Liko
 ---
 
@@ -10,7 +10,7 @@ Week4: A combination of development and travel preparation.
 
 The second part of this week was dominated by the preparation process for my upcoming week at the Berlin based office of Crate.
 
-####But first lets focus on the first few days:
+#### But first lets focus on the first few days:
 
 The Monday in the forth week at Crate started as every “CrateOfficeMonday” starts, with team cooking. 
 Do to the fact that Julia is away on holiday Elena and I cooked for the team Palatschinken with sweet and sour filling. 
